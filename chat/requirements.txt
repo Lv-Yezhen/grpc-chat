@@ -1,0 +1,9 @@
+Flask
+grpcio==1.41.0
+grpcio-tools==1.41.0
+Jinja2==3.1.2
+MarkupSafe
+requests==2.31.0
+SQLAlchemy==2.0.23
+Werkzeug==3.0.1
+ping3
